@@ -1,5 +1,7 @@
 <template>
-    <h1 class="mt-20">admin</h1>
+    <div>
+        <h2>hfhf</h2>
+    </div>
 </template>
   
   <script>
